@@ -1,3 +1,5 @@
+"""Strings"""
+
 nombre_curso = "Ultimate Python"
 descripcion_curso = """
 Este es un bonito curso
